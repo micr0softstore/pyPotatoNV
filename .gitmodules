@@ -1,0 +1,3 @@
+[submodule "loaders"]
+	path = loaders
+	url = https://github.com/mashed-potatoes/HiSiBootloaders/tree/4755428d3dfc2e990ee26139db967db77e799afd
